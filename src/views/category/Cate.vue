@@ -1,0 +1,247 @@
+<template>
+    <div  class="wrapper"  ref="wrapper">
+      <ul  class="content">
+        <li>目录列表1</li>
+        <li>目录列表2</li>
+        <li>目录列表3</li>
+        <li>目录列表4</li>
+        <li>目录列表5</li>
+        <li>目录列表6</li>
+        <li>目录列表7</li>
+        <li>目录列表8</li>
+        <li>目录列表9</li>
+        <li>目录列表10</li>
+        <li>目录列表11</li>
+        <li>目录列表12</li>
+        <li>目录列表13</li>
+        <li>目录列表14</li>
+        <li>目录列表15</li>
+        <li>目录列表16</li>
+        <li>目录列表17</li>
+        <li>目录列表18</li>
+        <li>目录列表19</li>
+        <li>目录列表20</li>
+        <li>目录列表21</li>
+        <li>目录列表22</li>
+        <li>目录列表23</li>
+        <li>目录列表24</li>
+        <li>目录列表25</li>
+        <li>目录列表26</li>
+        <li>目录列表27</li>
+        <li>目录列表28</li>
+        <li>目录列表29</li>
+        <li>目录列表30</li>
+        <li>目录列表31</li>
+        <li>目录列表32</li>
+        <li>目录列表33</li>
+        <li>目录列表34</li>
+        <li>目录列表35</li>
+        <li>目录列表36</li>
+        <li>目录列表37</li>
+        <li>目录列表38</li>
+        <li>目录列表39</li>
+        <li>目录列表40</li>
+        <li>目录列表41</li>
+        <li>目录列表42</li>
+        <li>目录列表43</li>
+        <li>目录列表44</li>
+        <li>目录列表45</li>
+        <li>目录列表46</li>
+        <li>目录列表47</li>
+        <li>目录列表48</li>
+        <li>目录列表49</li>
+        <li>目录列表50</li>
+        <li>目录列表51</li>
+        <li>目录列表52</li>
+        <li>目录列表53</li>
+        <li>目录列表54</li>
+        <li>目录列表55</li>
+        <li>目录列表56</li>
+        <li>目录列表57</li>
+        <li>目录列表58</li>
+        <li>目录列表59</li>
+        <li>目录列表60</li>
+        <li>目录列表61</li>
+        <li>目录列表62</li>
+        <li>目录列表63</li>
+        <li>目录列表64</li>
+        <li>目录列表65</li>
+        <li>目录列表66</li>
+        <li>目录列表67</li>
+        <li>目录列表68</li>
+        <li>目录列表69</li>
+        <li>目录列表70</li>
+        <li>目录列表71</li>
+        <li>目录列表72</li>
+        <li>目录列表73</li>
+        <li>目录列表74</li>
+        <li>目录列表75</li>
+        <li>目录列表76</li>
+        <li>目录列表77</li>
+        <li>目录列表78</li>
+        <li>目录列表79</li>
+        <li>目录列表80</li>
+        <li>目录列表81</li>
+        <li>目录列表82</li>
+        <li>目录列表83</li>
+        <li>目录列表84</li>
+        <li>目录列表85</li>
+        <li>目录列表86</li>
+        <li>目录列表87</li>
+        <li>目录列表88</li>
+        <li>目录列表89</li>
+        <li>目录列表90</li>
+        <li>目录列表91</li>
+        <li>目录列表92</li>
+        <li>目录列表93</li>
+        <li>目录列表94</li>
+        <li>目录列表95</li>
+        <li>目录列表96</li>
+        <li>目录列表97</li>
+        <li>目录列表98</li>
+        <li>目录列表99</li>
+        <li>目录列表100</li>
+        <li>目录列表101</li>
+        <li>目录列表102</li>
+        <li>目录列表103</li>
+        <li>目录列表104</li>
+        <li>目录列表105</li>
+        <li>目录列表106</li>
+        <li>目录列表107</li>
+        <li>目录列表108</li>
+        <li>目录列表109</li>
+        <li>目录列表110</li>
+        <li>目录列表111</li>
+        <li>目录列表112</li>
+        <li>目录列表113</li>
+        <li>目录列表114</li>
+        <li>目录列表115</li>
+        <li>目录列表116</li>
+        <li>目录列表117</li>
+        <li>目录列表118</li>
+        <li>目录列表119</li>
+        <li>目录列表120</li>
+        <li>目录列表121</li>
+        <li>目录列表122</li>
+        <li>目录列表123</li>
+        <li>目录列表124</li>
+        <li>目录列表125</li>
+        <li>目录列表126</li>
+        <li>目录列表127</li>
+        <li>目录列表128</li>
+        <li>目录列表129</li>
+        <li>目录列表130</li>
+        <li>目录列表131</li>
+        <li>目录列表132</li>
+        <li>目录列表133</li>
+        <li>目录列表134</li>
+        <li>目录列表135</li>
+        <li>目录列表136</li>
+        <li>目录列表137</li>
+        <li>目录列表138</li>
+        <li>目录列表139</li>
+        <li>目录列表140</li>
+        <li>目录列表141</li>
+        <li>目录列表142</li>
+        <li>目录列表143</li>
+        <li>目录列表144</li>
+        <li>目录列表145</li>
+        <li>目录列表146</li>
+        <li>目录列表147</li>
+        <li>目录列表148</li>
+        <li>目录列表149</li>
+        <li>目录列表150</li>
+        <li>目录列表151</li>
+        <li>目录列表152</li>
+        <li>目录列表153</li>
+        <li>目录列表154</li>
+        <li>目录列表155</li>
+        <li>目录列表156</li>
+        <li>目录列表157</li>
+        <li>目录列表158</li>
+        <li>目录列表159</li>
+        <li>目录列表160</li>
+        <li>目录列表161</li>
+        <li>目录列表162</li>
+        <li>目录列表163</li>
+        <li>目录列表164</li>
+        <li>目录列表165</li>
+        <li>目录列表166</li>
+        <li>目录列表167</li>
+        <li>目录列表168</li>
+        <li>目录列表169</li>
+        <li>目录列表170</li>
+        <li>目录列表171</li>
+        <li>目录列表172</li>
+        <li>目录列表173</li>
+        <li>目录列表174</li>
+        <li>目录列表175</li>
+        <li>目录列表176</li>
+        <li>目录列表177</li>
+        <li>目录列表178</li>
+        <li>目录列表179</li>
+        <li>目录列表180</li>
+        <li>目录列表181</li>
+        <li>目录列表182</li>
+        <li>目录列表183</li>
+        <li>目录列表184</li>
+        <li>目录列表185</li>
+        <li>目录列表186</li>
+        <li>目录列表187</li>
+        <li>目录列表188</li>
+        <li>目录列表189</li>
+        <li>目录列表190</li>
+        <li>目录列表191</li>
+        <li>目录列表192</li>
+        <li>目录列表193</li>
+        <li>目录列表194</li>
+        <li>目录列表195</li>
+        <li>目录列表196</li>
+        <li>目录列表197</li>
+        <li>目录列表198</li>
+        <li>目录列表199</li>
+        <li>目录列表200</li>
+      </ul>
+    </div>
+</template>
+
+<script>
+    import BScroll from "better-scroll"
+    export default {
+        name: "Cate",
+      data(){
+        return {
+          scroll:null
+        }
+      },
+      mounted() {
+        this.scroll= new BScroll(this.$refs.wrapper,{
+            probeType:3,
+            pullUpLoad:true
+        })
+
+        this.scroll.on('scroll',(position)=>{
+          console.log(position)
+        })
+        this.scroll.on('pullingUp',()=>{
+          console.log(position)
+        })
+
+
+      }
+    }
+</script>
+
+<style scoped>
+
+.wrapper{
+     background-color: red;
+     height: 200px;
+    /*overflow: hidden;*/
+  /*  overflow-y: scroll;*/
+}
+
+
+
+
+</style>
